@@ -1,0 +1,23 @@
+{
+  "name": "tiny_langjs",
+  "version": "1.0.0",
+  "description": "Tiny interpreter",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "prettyjson": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "interpreter",
+    "javascript",
+    "lang"
+  ],
+  "author": "Abdullahi Mahamed <abdullahimahamed42@gmail.com>",
+  "license": "ISC"
+}
